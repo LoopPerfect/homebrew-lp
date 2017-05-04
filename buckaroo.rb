@@ -11,8 +11,6 @@ class Buckaroo < Formula
     bin.write_jar_script libexec + "buckaroo-cli.jar", "buckaroo"
   end
   def caveats
-    "Anonymous usage statistics are enabled by default. \n" +
-    "For more information and instructions for disabling analytics, visit: \n" + 
-    "https://buckaroo.readthedocs.io/"
+    "Anonymous usage statistics are enabled by default. \nFor more information and instructions for disabling analytics, visit: \nhttps://buckaroo.readthedocs.io/"
   end
 end
