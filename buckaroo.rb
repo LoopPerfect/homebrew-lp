@@ -1,8 +1,8 @@
 require 'formula'
 
 class Buckaroo < Formula
-  homepage 'https://github.com/njlr/buckaroo'
-  head 'git@github.com:njlr/buckaroo.git', :using => :git
+  homepage 'https://github.com/loopperfect/buckaroo'
+  head 'git@github.com:loopperfect/buckaroo.git', :using => :git
   depends_on :java => "1.8+"
   depends_on 'buck'
   def install

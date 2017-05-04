@@ -1,2 +1,2 @@
-# buckaroo-homebrew
+# homebrew-lp
 A Homebrew tap for installing Buckaroo
