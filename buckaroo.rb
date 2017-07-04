@@ -2,6 +2,7 @@ require 'formula'
 
 class Buckaroo < Formula
   homepage 'https://github.com/loopperfect/buckaroo'
+  version 0.1.0 'https://github.com/LoopPerfect/buckaroo.git#', :using => :git, :revision => '878c7ba8f3025ea7babc9497874f6c6dc61746a6'
   head 'https://github.com/LoopPerfect/buckaroo.git', :using => :git
   depends_on :java => "1.8+"
   depends_on 'buck'
