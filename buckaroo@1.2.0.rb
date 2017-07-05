@@ -1,6 +1,6 @@
 require 'formula'
 
-class Buckaroo < Formula
+class BuckarooAT120 < Formula
   homepage 'https://github.com/loopperfect/buckaroo'
 
   url 'https://github.com/LoopPerfect/buckaroo.git',
