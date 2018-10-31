@@ -7,7 +7,7 @@ class BuckarooAT141 < Formula
   homepage "https://github.com/loopperfect/buckaroo"
 
   url "https://github.com/LoopPerfect/buckaroo/releases/download/v" + @@version + "/buckaroo-cli.jar"
-  sha256 "c6abf8031c59dbea9c46d99a90e051d03de33d3bee6846a865441ad5360e9b30"
+  sha256 "025582b9b67788251a3d1fa8a72ca596a0ce09a0f782b4934bbe773b91d651ba"
 
   head "https://github.com/LoopPerfect/buckaroo.git",
     :using => :git
